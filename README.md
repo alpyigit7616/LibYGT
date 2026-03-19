@@ -8,6 +8,7 @@ A lightweight C library for system utilities — logging, message boxes, and mor
 ## 🚀 Features
 - Colored log messages (`INFO`, `WARNING`, `ERROR`)
 - Cross-platform message boxes (Windows, Linux, macOS)
+- Styled texts with ansi!
 - Lightweight — no heavy dependencies
 - Easy to integrate into any C project
 
@@ -23,6 +24,7 @@ int main() {
     ly_log_warn("This is a warning!a");
     ly_log_error("This is an error!");
     ly_msgbox_normal("Hello from LibYGT!");
+    // And more functions
     return 0;
 }
 ```

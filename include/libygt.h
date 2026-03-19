@@ -22,6 +22,14 @@ void ly_log_error(const char* message); // Error message
 
 /*
  ******************************
+ COOL TEXT FUNCTIONS
+ ******************************
+*/
+void ly_cool_text_bold(const char* message); // Bold text
+void ly_cool_text_underlined(const char* message); // Underlined text
+
+/*
+ ******************************
  MSGBOX FUNCTIONS
  ******************************
 */
