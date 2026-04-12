@@ -1,8 +1,6 @@
 # LibYGT
 A lightweight C library for system utilities — logging, message boxes, and more.
 
-> ⚠️ This project is under active development. APIs may change.
-
 ---
 
 ## 🚀 Features
